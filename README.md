@@ -31,4 +31,17 @@ nano/vi IntelliJ_IDEA.desktop
 
 Add [path] argument in Exec (python)
 ```
+
+To run it, right click on .desktop file and click 'Run as a program'
 ![alt text](<Screenshot from 2024-02-14 10-55-56.png>)
+
+To add it to desktop run
+```
+sudo desktop-file-install IntelliJ_IDEA.desktop
+```
+
+Before:
+![alt text](<Screenshot from 2024-02-14 11-02-14.png>)
+
+Aftter:
+![alt text](<Screenshot from 2024-02-14 11-03-46.png>)
