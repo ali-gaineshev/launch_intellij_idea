@@ -1,5 +1,5 @@
 # launch_intellij_idea
-Simple automation script that launches IntelliJ IDEA through desktop app on Linux. Initially python script was written, but bash one is simpler, but I left both. 
+Simple automation script that launches IntelliJ IDEA through desktop app on Linux. Initially python script was written, but bash one is simpler, so I left both. 
 My IntelliJ idea had to be launched through 
 
 ``` 
@@ -31,3 +31,4 @@ nano/vi IntelliJ_IDEA.desktop
 
 Add [path] argument in Exec (python)
 ```
+![alt text](<Screenshot from 2024-02-14 10-55-56.png>)
