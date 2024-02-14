@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=IntelliJ IDEA
-Comment=Launches IntelliJ IDEA. Replace "Exec" part with "python3 [path]/launch_idea.py" 
+Comment=Launches IntelliJ IDEA. Replace "Exec" part with "python3 [path]/launch_idea.py" if want to 
 Exec=[path]/launch_intellij_idea/launch_idea.sh
 Icon=[path]/launch_intellij_idea/logo.png
 Terminal=false
